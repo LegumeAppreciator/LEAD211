@@ -1,4 +1,1 @@
-d  
-
-2026/09/10 - repo created
-
+Site can be found at: https://legumeappreciator.github.io/LEAD211/
