@@ -1,1 +1,2 @@
 Site can be found at: https://legumeappreciator.github.io/LEAD211/
+This site & Repo will likely be take down by the start of the next semester
